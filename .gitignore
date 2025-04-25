@@ -1,0 +1,12 @@
+.env
+msedgedriver.exe
+pyvenv.cfg
+find_element selenium.png
+DB_Moodle.db
+api_for_google_sheet.json
+Scripts/
+Include/
+Driver_Notes/
+__pycache__/
+.idea/
+lib/
