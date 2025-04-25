@@ -10,3 +10,5 @@ Driver_Notes/
 __pycache__/
 .idea/
 lib/
+log_w_pas.json
+urls.json
