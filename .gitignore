@@ -12,3 +12,4 @@ __pycache__/
 lib/
 log_w_pas.json
 urls.json
+db.sqlite3
